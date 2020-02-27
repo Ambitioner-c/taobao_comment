@@ -79,3 +79,5 @@ fabric.properties
 将删除 data/
 将删除 python/
 将删除 venv/
+
+*.html
